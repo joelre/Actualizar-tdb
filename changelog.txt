@@ -1,0 +1,14 @@
+LoEs2 Rev.18 "Más cerca de la victoria"
+-	Reparados errores en las misiones y añadidas nuevas misiones, de tal forma que esta tabla queda full excepto 2 columnas :  OfferRewards y en RequestItem
+-	Se añadieron algunos db_script_string de TDB, ahora diferenciamos entre TDB e YTDB
+-	Reparada y revisada la tabla command
+-	Revisadas las criaturas y añadidas 333 criaturas y se ha dejado completa la tabla
+-	Añadidos 480 page_text de tal forma que la tabla esta totalmente traducida
+-	Traducidos todos los objetos del mundo(gameobjects) y añadidos los castbarcaption
+-	Los ítems ahora están 100% blizzlikes 
+-	gossip_menu_option de YTDB completa y actualizada hasta la versión 594
+-	gossip_menu_option de TDB completa
+-	Añadidos arreglos en trnity_string tanto por parte del staff como de algunos usuarios
+-	Tablas Strings(trinitycore_string y mangos_string) actualizadas a las ultimas versiones 
+-	Se ha habilitado la posibilidad de llevar a cabo FIX en la revisiones (ya no hay que esperar a una nueva revisión para una corrección) solo en el instalador de windows
+-   Puedes hacer actualizar las revisiones desde el instalador solo en windows

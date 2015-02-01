@@ -1,0 +1,18 @@
+Instrucciones de instalación :
+
+---- WINDOWS ----
+Ejecuta el bat y sigue los pasos
+
+---- LINUX ----
+IMPORTANTE HAZ UNA BAKUP DE TU DB MANUALMENTE
+1- Edita el sh y pon tus datos en de la db en :
+
+user="" #user de mysql
+pass="" #contraseña mysql
+wdb="" #db del mundo
+sd2db=""        #db de los ScriptDev2
+server="localhost" #Servidor mysql
+port="3306"   #Puerto mysql
+
+2- Guardas los cambios
+3- Ejecuta el sh
